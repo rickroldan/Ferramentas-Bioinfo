@@ -1,0 +1,42 @@
+- Uniprot
+https://www.uniprot.org/
+
+- Blast (alinhamento em pares)
+https://blast.ncbi.nlm.nih.gov/Blast.cgi
+
+- MEGA (alinhamento múltiplo)
+https://www.megasoftware.net/
+
+- Estrutura gênica 
+http://gsds.gao-lab.org/
+
+- Ontologia gênica
+http://ekhidna2.biocenter.helsinki.fi/sanspanz/
+
+- Primer3plus (desenho de primers)
+https://www.bioinformatics.nl/cgi-bin/primer3plus/primer3plus.cgi
+
+- Primer-Blast
+https://www.ncbi.nlm.nih.gov/tools/primer-blast/index.cgi?LINK_LOC=BlastHome
+
+- PerlPrimer
+https://perlprimer.sourceforge.net/download.html
+
+- Interpro (domínios conservados)
+https://www.ebi.ac.uk/interpro/
+
+- CD-Search
+https://www.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.cgi
+
+- JVirGel
+http://www.jvirgel.de/
+
+- Plant-mSubP
+https://bioinfo.usu.edu/Plant-mSubP/
+
+- Pymol
+https://pymol.org/2/
+
+- ColabFold (ALPHAFOLD)
+https://github.com/sokrypton/ColabFold
+
